@@ -26,7 +26,7 @@ body{
 }
 
 #img-div{
-    background-color: #B0C4DE;
+    background-color: #afb4b962;
     padding: 20px 0px 20px 0px;
     max-width: 100%;
 }
@@ -38,4 +38,36 @@ body{
     width: 50%;
     max-width: 100%;
     height: auto;
+    padding-bottom: 10px;
+}
+
+#img-caption{
+    text-align: center;
+    font-style: oblique;
+}
+
+section h3{
+    text-align: center;
+}
+
+ul{
+    text-align: left;
+    position: relative;
+    width: 40%;
+    left: 30%;
+}
+
+#tribute-info{
+    text-align: center;
+    text
+    text-indent: 10px;
+}
+
+p{
+    text-align: center;
+}
+
+#tribute-link{
+    text-align: center;
+    text-decoration: none;
 }
